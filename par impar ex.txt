@@ -1,0 +1,25 @@
+require("readline") permite ler texto digitado pelo usuário no terminal.
+
+.createInterface({ ... })
+
+Criamos uma "interface" (uma conexão) entre:
+input: process.stdin → entrada do teclado
+output: process.stdout → saída no terminal
+
+
+readline.question()
+
+Mostra a mensagem: "Digite um número:"
+Espera o usuário digitar e apertar Enter
+
+✔️ numero => { ... }
+
+Isso é uma função que recebe o que o usuário digitou.
+Exemplo:
+Se o usuário digitar "20", então numero será "20" (texto).
+
+readline.close(); fecha programa
+
+
+
+
