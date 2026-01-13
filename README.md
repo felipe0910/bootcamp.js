@@ -1,12 +1,14 @@
-# 🚀 Bootcamp JavaScript - DIO
+# Formação JavaScript Developer - DIO
 
-Repositório criado para organizar os exercícios e desafios de código prático realizados durante o Bootcamp de JavaScript na DIO.
+Repositório dedicado ao desenvolvimento de competências técnicas em JavaScript, abrangendo desde a sintaxe fundamental até o consumo de APIs e boas práticas de programação.
 
-## 📂 O que estou estudando aqui:
+## 💻 Tecnologias e Conceitos
+* **Linguagem:** JavaScript (ES6+) para desenvolvimento web.
+* **Lógica de Programação:** Implementação de estruturas de repetição, condicionais e algoritmos.
+* **Web:** Consumo de APIs e integração com o DOM (em progresso).
+* **Metodologia:** Experiência com técnica de *Pair Programming* durante os módulos iniciais.
 
-* **Fundamentos de JS:** Variáveis, tipos de dados e operadores básicos (Pasta `aula js`).
-* **Estruturas de Controle:** Práticas focadas em laços de repetição como `for` e `while` (Pasta `estrutura de repeticao`).
-* **Lógica de Programação:** Resolução de problemas lógicos, como o exercício de par ou ímpar.
-
----
-*Status: Em constante atualização conforme o progresso nas aulas.*
+## 🎯 Objetivos Técnicos
+* Desenvolver código limpo e seguindo as convenções da linguagem.
+* Criar projetos práticos e portfólio web.
+* Dominar o uso de JavaScript para aplicações dinâmicas.
