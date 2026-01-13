@@ -19,7 +19,3 @@ O conteúdo está dividido conforme o progresso nas aulas:
 * **lógica**: Exercícios de verificação, como o sistema de par ou ímpar.
 
 ---
-
-## 🔗 Contato
-* **LinkedIn:** [Felipe Alves da Silva](https://www.linkedin.com/in/felipe-alves-da-silva-6b5a372b6/)
-* **GitHub:** [felipe0910](https://github.com/felipe0910)
