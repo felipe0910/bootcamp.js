@@ -5,3 +5,9 @@ for (let i = 0; i< nome.length;i++ ){
 }
 
 
+for (let i=0 ; i< 10; i++){
+    console.log(i);
+}
+
+
+//i ++ incrementa 1 na variavel
